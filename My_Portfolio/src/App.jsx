@@ -1,5 +1,7 @@
 // import Card1 from "./Components/Cards/Card1";
-import { NavBar } from "./Components/NavBar/NavBar";
+
+import NavBar from "./Components/NavBar/NavBar";
+
 
 function App() {
   return (
